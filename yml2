@@ -1,0 +1,2 @@
+- name: Upload Android App to Play Store
+  uses: bbjoern/upload-google-play@v0.0.6
